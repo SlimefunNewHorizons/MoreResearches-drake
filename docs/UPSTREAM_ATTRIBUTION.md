@@ -6,7 +6,10 @@ This repository is part of the [SlimefunNewHorizons](https://github.com/Slimefun
 
 | Author | Commits here | Source |
 |---|---|---|
-| _none verified yet_ | | |
+| [JustAHuman-xD](https://github.com/JustAHuman-xD) | n/a | Upstream project [JustAHuman-xD/MoreResearches](https://github.com/JustAHuman-xD/MoreResearches) |
+| [JustAHuman-xD](https://github.com/JustAHuman-xD) | n/a | GitHub contributors / project history |
+| [J1coding](https://github.com/J1coding) | n/a | GitHub contributors / project history |
+| [ybw0014](https://github.com/ybw0014) | n/a | GitHub contributors / project history |
 
 Authors are taken from the repository history (GitHub contributors) and from the code itself (`plugin.yml`). If an original author is missing or wrongly credited, open an issue or mention [@JackStar6677-1](https://github.com/JackStar6677-1) and it will be fixed.
 
